@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/postgres_class",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "mohamed",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
