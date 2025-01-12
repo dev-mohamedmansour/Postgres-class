@@ -12,7 +12,7 @@
 			 public function __construct()
 			 {
 					$this->connection = pg_connect(
-						 "host=localhost dbname=classic_cars port=5432 user=postgres password=2772003"
+						 "host=localhost dbname=dpname port=5432 user=postgres password=password"
 					);
 			 }
 			 
